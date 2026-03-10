@@ -13,7 +13,7 @@
 
 ---
 
-## Proyectos
+## Projects
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
