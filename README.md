@@ -22,6 +22,7 @@
 | [**PhoneNumberInfo**](https://github.com/0xlibless/PhoneNumberInfo) | Script to look up info on phone numbers (my first osint tool) | Python |
 | [**FreeProxyScraper**](https://github.com/0xlibless/FreeProxyScraper) | Scrapes GitHub repos to collect free proxies | Python |
 | [**SnakeGame**](https://github.com/0xlibless/SnakeGame) | Snake Game used for practice my c++ skills | C++ |
+| [**SuperTaTeTi**](https://github.com/0xlibless/SuperTaTeTi) | Own game, it's like TicTacToe 2 | JavaScript - React Native |
 | [**My portfolio**](https://github.com/0xlibless/portfolio) | - | Javascript - React |
 
 ---
