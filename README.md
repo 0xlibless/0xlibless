@@ -19,6 +19,7 @@
 |---|---|---|
 | [**KeepIt**](https://github.com/0xlibless/KeepIt) | Android app to clean your gallery with Tinder-style swipes | JavaScript - React Native |
 | [**Chatty.cpp**](https://github.com/0xlibless/Chatty.cpp) | Minimal Android app for LLM inference on-device | JavaScript - React Native |
+| [**WI-HI?**](https://github.com/0xlibless/Wi-Hi) | A fast ARP network scanner written in C++ using raw sockets | C++ |
 | [**PhoneNumberInfo**](https://github.com/0xlibless/PhoneNumberInfo) | Script to look up info on phone numbers (my first osint tool) | Python |
 | [**FreeProxyScraper**](https://github.com/0xlibless/FreeProxyScraper) | Scrapes GitHub repos to collect free proxies | Python |
 | [**SnakeGame**](https://github.com/0xlibless/SnakeGame) | Snake Game used for practice my c++ skills | C++ |
