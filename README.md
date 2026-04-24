@@ -45,6 +45,13 @@
 
 </div>
 
+## Also studying
+
+- Cybersecurity & pentesting
+- OSINT
+- Open source tooling
+- Android development
+
 ---
 
 ## Stats
@@ -60,10 +67,3 @@
 </div>
 
 ---
-
-## Also studying
-
-- Cybersecurity & pentesting
-- OSINT
-- Open source tooling
-- Android development
