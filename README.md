@@ -25,7 +25,7 @@
 | [**SnakeGame**](https://github.com/0xlibless/SnakeGame) | Snake Game used for practice my c++ skills | C++ |
 | [**SuperTaTeTi**](https://github.com/0xlibless/SuperTaTeTi) | Own game, it's like TicTacToe 2 | JavaScript - React Native |
 | [**My portfolio**](https://github.com/0xlibless/portfolio) | - | JavaScript - React |
-| [**zlaunch**](https://github.com/0xlibless/zlaunch) | Linux binary preloader — compresses executables in RAM and launches them without touching disk | C |
+| [**Zlaunch**](https://github.com/0xlibless/zlaunch) | Linux binary preloader — compresses executables in RAM and launches them without touching disk | C |
 
 ---
 
