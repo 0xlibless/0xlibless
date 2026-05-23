@@ -24,8 +24,9 @@
 | [**FreeProxyScraper**](https://github.com/0xlibless/FreeProxyScraper) | Scrapes GitHub repos to collect free proxies | Python |
 | [**SnakeGame**](https://github.com/0xlibless/SnakeGame) | Snake Game used for practice my c++ skills | C++ |
 | [**SuperTaTeTi**](https://github.com/0xlibless/SuperTaTeTi) | Own game, it's like TicTacToe 2 | JavaScript - React Native |
-| [**My portfolio**](https://github.com/0xlibless/portfolio) | - | JavaScript - React |
 | [**Zlaunch**](https://github.com/0xlibless/zlaunch) | Linux binary preloader — compresses executables in RAM and launches them without touching disk | C |
+| [**Chip8-Emulator**](https://github.com/0xlibless/Chip8-Emulator) | Chip-8 emulator! some training before NES emulator| C++ |
+| [**My portfolio**](https://github.com/0xlibless/portfolio) | - | JavaScript - React |
 
 ---
 
