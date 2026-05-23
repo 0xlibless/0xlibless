@@ -4,8 +4,10 @@
 <h1>Yo, Agus here!</h1>
 
 **CS student · Open Source · Cybersecurity & OSINT**
+
 [![Portfolio](https://img.shields.io/badge/aguatin.dev-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://aguatin.dev)
 ![Languages](https://img.shields.io/badge/EN%20%2F%20ES-fluent-4ade80?style=for-the-badge)
+
 </div>
 
 ---
