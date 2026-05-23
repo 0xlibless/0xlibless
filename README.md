@@ -1,12 +1,15 @@
 <div align="center">
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=0xagvz" />
 <br/>
-# Yo, Agus here!
+<h1>Yo, Agus here!</h1>
+
 **CS student · Open Source · Cybersecurity & OSINT**
 [![Portfolio](https://img.shields.io/badge/aguatin.dev-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://aguatin.dev)
 ![Languages](https://img.shields.io/badge/EN%20%2F%20ES-fluent-4ade80?style=for-the-badge)
 </div>
+
 ---
+
 ## Projects
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -20,8 +23,10 @@
 | [**FreeProxyScraper**](https://github.com/0xagvz/FreeProxyScraper) | Scrapes GitHub repos to collect free proxies | Python |
 | [**SnakeGame**](https://github.com/0xagvz/SnakeGame) | Snake Game used for practice my c++ skills | C++ |
 | [**My portfolio**](https://github.com/0xagvz/portfolio) | - | JavaScript - React |
+
 ---
 ## Stack
+
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -41,7 +46,9 @@
 - OSINT
 - Open source tooling
 - Android development
+  
 ---
+
 ## Stats
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xagvz&theme=tokyonight" /> 
@@ -49,4 +56,4 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xagvz&theme=tokyonight&utcOffset=-3" />
 <img width="68%" src="https://streak-stats.demolab.com?user=0xagvz&theme=tokyonight&hide_border=true" />
 </div>
----
+
