@@ -17,6 +17,7 @@
 |---|---|---|
 | [**WI-HI?**](https://github.com/0xagvz/Wi-Hi) | A fast ARP network scanner written in C++ using raw sockets | C++ |
 | [**zlaunch**](https://github.com/0xagvz/zlaunch) | Linux binary preloader — compresses executables in RAM and launches them without touching disk | C |
+| [**NES-Emulator**](https://github.com/0xagvz/NES-Emulator) | Nintendo Entertainment System emulator written in C++ | C++ |
 | [**Chip8-Emulator**](https://github.com/0xagvz/Chip8-Emulator) | Chip-8 emulator! some training before NES emulator | C++ |
 | [**KeepIt**](https://github.com/0xagvz/KeepIt) | Android app to clean your gallery with Tinder-style swipes | JavaScript - React Native |
 | [**SuperTaTeTi**](https://github.com/0xagvz/SuperTaTeTi) | Own game, it's like TicTacToe 2 | JavaScript - React Native |
